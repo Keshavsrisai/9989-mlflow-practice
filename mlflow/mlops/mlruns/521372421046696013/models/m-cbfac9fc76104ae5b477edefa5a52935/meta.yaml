@@ -1,0 +1,10 @@
+artifact_location: file:///Users/keshavsrisai/9989-mlflow-practice/mlflow/mlops/mlruns/521372421046696013/models/m-cbfac9fc76104ae5b477edefa5a52935/artifacts
+creation_timestamp: 1766068089844
+experiment_id: '521372421046696013'
+last_updated_timestamp: 1766068092035
+model_id: m-cbfac9fc76104ae5b477edefa5a52935
+model_type: null
+name: poly_reg
+source_run_id: 44f7f5a9a7454647ab060544d4eb7231
+status: 2
+status_message: null
