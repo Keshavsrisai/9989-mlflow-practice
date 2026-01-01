@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/keshavsrisai/9989-mlflow-practice/mlflow/mlops/mlruns/175714661812355943/cca52778bbbd4da28e60e0a3215e65db/artifacts
+end_time: 1767265742294
+entry_point_name: ''
+experiment_id: '175714661812355943'
+lifecycle_stage: active
+run_id: cca52778bbbd4da28e60e0a3215e65db
+run_name: polynomial_degree_7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767265740943
+status: 3
+tags: []
+user_id: keshavsrisai
