@@ -1,0 +1,10 @@
+artifact_location: file:///Users/keshavsrisai/9989-mlflow-practice/mlflow/mlops/mlruns/727005030122344337/models/m-542030d334254a50993f052ae1ae5ba4/artifacts
+creation_timestamp: 1769757042959
+experiment_id: '727005030122344337'
+last_updated_timestamp: 1769757044536
+model_id: m-542030d334254a50993f052ae1ae5ba4
+model_type: null
+name: random_forest_regressor
+source_run_id: 1ea0e08bc7f940e3b0212930f746df42
+status: 2
+status_message: null
