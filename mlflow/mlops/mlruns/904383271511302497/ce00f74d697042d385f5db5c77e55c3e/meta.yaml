@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/904383271511302497/ce00f74d697042d385f5db5c77e55c3e/artifacts
+end_time: 1775650633958
+entry_point_name: ''
+experiment_id: '904383271511302497'
+lifecycle_stage: active
+run_id: ce00f74d697042d385f5db5c77e55c3e
+run_name: beautiful-ray-642
+run_uuid: ce00f74d697042d385f5db5c77e55c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775650603051
+status: 3
+tags: []
+user_id: kesha

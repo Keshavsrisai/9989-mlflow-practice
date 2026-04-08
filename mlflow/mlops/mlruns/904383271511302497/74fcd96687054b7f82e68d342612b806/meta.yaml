@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/904383271511302497/74fcd96687054b7f82e68d342612b806/artifacts
+end_time: 1775652131587
+entry_point_name: ''
+experiment_id: '904383271511302497'
+lifecycle_stage: active
+run_id: 74fcd96687054b7f82e68d342612b806
+run_name: hilarious-bear-180
+run_uuid: 74fcd96687054b7f82e68d342612b806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775652126973
+status: 3
+tags: []
+user_id: kesha

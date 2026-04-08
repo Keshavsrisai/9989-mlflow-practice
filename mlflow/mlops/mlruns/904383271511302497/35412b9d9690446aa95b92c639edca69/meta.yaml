@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/904383271511302497/35412b9d9690446aa95b92c639edca69/artifacts
+end_time: 1775652207011
+entry_point_name: ''
+experiment_id: '904383271511302497'
+lifecycle_stage: active
+run_id: 35412b9d9690446aa95b92c639edca69
+run_name: abundant-ram-253
+run_uuid: 35412b9d9690446aa95b92c639edca69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775652188283
+status: 3
+tags: []
+user_id: kesha

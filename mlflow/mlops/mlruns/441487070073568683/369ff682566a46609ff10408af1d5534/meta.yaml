@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/369ff682566a46609ff10408af1d5534/artifacts
+end_time: 1775651059294
+entry_point_name: ''
+experiment_id: '441487070073568683'
+lifecycle_stage: active
+run_id: 369ff682566a46609ff10408af1d5534
+run_name: RandomForestRegression
+run_uuid: 369ff682566a46609ff10408af1d5534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775650492498
+status: 3
+tags: []
+user_id: kesha

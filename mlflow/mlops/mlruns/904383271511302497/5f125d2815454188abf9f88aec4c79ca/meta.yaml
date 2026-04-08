@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/904383271511302497/5f125d2815454188abf9f88aec4c79ca/artifacts
+end_time: 1775652122261
+entry_point_name: ''
+experiment_id: '904383271511302497'
+lifecycle_stage: active
+run_id: 5f125d2815454188abf9f88aec4c79ca
+run_name: invincible-colt-243
+run_uuid: 5f125d2815454188abf9f88aec4c79ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775652116832
+status: 3
+tags: []
+user_id: kesha

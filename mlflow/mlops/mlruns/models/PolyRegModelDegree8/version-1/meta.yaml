@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1775650466555
+current_stage: None
+description: null
+last_updated_timestamp: 1775650466555
+name: PolyRegModelDegree8
+run_id: 1fc74b51668b4d16b16cef32b6fe873e
+run_link: null
+source: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/1fc74b51668b4d16b16cef32b6fe873e/artifacts/poly_reg
+status: READY
+status_message: null
+storage_location: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/1fc74b51668b4d16b16cef32b6fe873e/artifacts/poly_reg
+user_id: null
+version: 1

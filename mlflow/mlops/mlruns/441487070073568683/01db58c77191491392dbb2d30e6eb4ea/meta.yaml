@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/01db58c77191491392dbb2d30e6eb4ea/artifacts
+end_time: 1775650459421
+entry_point_name: ''
+experiment_id: '441487070073568683'
+lifecycle_stage: active
+run_id: 01db58c77191491392dbb2d30e6eb4ea
+run_name: polynomial_degree_5
+run_uuid: 01db58c77191491392dbb2d30e6eb4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775650457267
+status: 3
+tags: []
+user_id: kesha

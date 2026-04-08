@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1775651057274
+current_stage: None
+description: null
+last_updated_timestamp: 1775651057274
+name: RandomForestRegressorModel
+run_id: 369ff682566a46609ff10408af1d5534
+run_link: null
+source: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/369ff682566a46609ff10408af1d5534/artifacts/random_forest_regressor
+status: READY
+status_message: null
+storage_location: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/441487070073568683/369ff682566a46609ff10408af1d5534/artifacts/random_forest_regressor
+user_id: null
+version: 1

@@ -1,0 +1,6 @@
+artifact_location: file:///d:/gitprojects/9989-mlflow-practice/mlflow/mlops/mlruns/904383271511302497
+creation_time: 1775650601152
+experiment_id: '904383271511302497'
+last_update_time: 1775650601152
+lifecycle_stage: active
+name: real_estate_price_prediction_dl
